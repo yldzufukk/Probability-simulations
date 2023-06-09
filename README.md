@@ -30,4 +30,3 @@ B. Determine if roulette wheels have patterns that a simulation can determine by
 
 - Reflection question: Is it is wise to bet a large bet on red if you see the roulette wheel hit 10 black numbers in a row?
 - Reflection question: Is there any behavior you could add to the roulette simulator that would improve it? If so do it and build a portfolio project that shows your enhancement.
-# Probability-simulations
